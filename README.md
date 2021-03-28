@@ -1,7 +1,7 @@
 # Mes-Projets-R-Shiny
 
-Dans ce répertoire se trouve les applications R Shiny que j'ai développé 
+Voici une démo/présentation de mon application de clustering des données par K-Means : https://www.youtube.com/watch?v=LaqjRe_PUgA&list=PLmJWMf9F8euStJ32KHOThQzJ7hub-JXA0&index=3
 
-Voici une démo/présentation de mon application de clustering des données par K-Means : https://www.linkedin.com/posts/josueafouda_shiny-clustering-kmeans-activity-6768839291725467648-HfEk
+Ma superbe formation sur R Shiny : https://afouda-datascience.com/cours/super-r-shiny-course/
 
-Mon site web : https://afouda-datascience.com/
+Mes autres vidéos sur Shiny, Markdown, Flexdashboard : https://youtube.com/playlist?list=PLmJWMf9F8euStJ32KHOThQzJ7hub-JXA0
